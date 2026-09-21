@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Юлия Море](https://up.htmlacademy.ru/ecmascript-individual/2/user/2647027).
-* Наставник: `Неизвестно`.
+* Наставник: [ Виктория Никитина ] (https://htmlacademy.ru/profile/id1217273).
 
 ---
 
